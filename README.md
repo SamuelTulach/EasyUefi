@@ -1,1 +1,1 @@
-# ![icon](Assets/icon_small.png) EasyUefi
+<img src="Assets/icon_small.png" alt="icon" title="EasyUefi" align="left" height="60" />
