@@ -1,1 +1,1 @@
-# ![icon](icon_small.png) EasyUefi
+# ![icon](Assets/icon_small.png) EasyUefi
