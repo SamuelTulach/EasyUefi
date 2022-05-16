@@ -5,4 +5,4 @@
 
 The aim of this project is to provide a simple template for [Visual Studio](https://visualstudio.microsoft.com/) (2019) to create projects based on GNU-EFI as fast as possible. It should not be used in production but rather while doing things such as security research.
 
-**STILL PRETTY MUCH WORK IN PROGRESS**
+**STILL WORK IN PROGRESS**
